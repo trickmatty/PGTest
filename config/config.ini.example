@@ -1,8 +1,8 @@
 # DO NOT USE NOTEPAD TO EDIT CONFIG FILES!! USE NOTEPAD ++ INSTEAD.
 # Authentication settings
 #auth-service:          # ptc (default) or google
-#username:
-#password:
+#username: trickmatty03
+#password: perea133
 
 # Database settings
 #db-type: sqlite        # sqlite (default) or mysql
@@ -13,7 +13,7 @@
 #db-port:               # default 3306
 
 # Search settings
-#location:
+#location: 40.7091 -112.1016 
 #no-gyms:               # disables gym scanning (default false)
 #no-pokemon:            # disables pokemon scanning (default false)
 #no-pokestops:          # disables pokestop scanning (default false)
@@ -30,7 +30,7 @@
 #encounter-blacklist:   # blacklist of pokemon ids to NOT encounter. Syntax [id,id,id,id] (Do not use with whitelist)
 
 # Misc
-#gmaps-key:             # your Google Maps API key
+#gmaps-key: AIzaSyBaINUD1CRk2gsuFsPdrd7u9qvv8t6m2WY
 #proxy:                 # Proxy URL e.g. socks5://127.0.0.1:9050 or a list of proxies e.g. [socks5://127.0.0.1:9050,socks5://127.0.0.1:9050]
 #proxy-timeout:         # Timeout before proceeding with next proxy while checking if the proxy works, (default 5)
 #proxy-display:         # Used with -ps, full = display complete proxy address. Index = displays just the index for that proxy (default index)
